@@ -1,0 +1,9 @@
+id,proposition,evidence_state,source_note
+AKIJA-001,"Akija is an office associated with Ikija",DOCUMENTED,"Akija chieftaincy declaration"
+AKIJA-002,"Four ruling houses are Egbedi, Lumokan, Ojigi, Ajasun",DOCUMENTED,"Akija chieftaincy declaration"
+AKIJA-003,"Olisa of Ikija heads Ilamuren and is a kingmaker",DOCUMENTED,"Akija chieftaincy declaration"
+ODI-001,"Ogbeni Odi of Ikija is head of the Odis and a kingmaker",DOCUMENTED,"Akija chieftaincy declaration"
+AGUN-001,"Ile-Nla is associated with Fusengbuwa at Agunsebi",DOCUMENTED,"membership card plus contemporary public reporting"
+LING-001,"Ijebu ule corresponds to house/home",T_LING,"linguistic research; verify exact dialect source per citation"
+LING-002,"USE reversal produces ESU",G_MATCH,"Roman-character reversal only"
+LING-003,"SE appears in Fusengbuwa and Agunsebi",G_MATCH,"graphemic observation only"
