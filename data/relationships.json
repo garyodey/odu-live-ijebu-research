@@ -1,0 +1,6 @@
+[
+  {"from":"office:akija","relation":"OFFICE_OF","to":"place:ikija","status":"DOCUMENTED"},
+  {"from":"office:olisa_ikija","relation":"HEADS","to":"institution:ilamuren","status":"DOCUMENTED"},
+  {"from":"compound:ile_nla_agunsebi","relation":"LOCATED_IN","to":"place:agunsebi","status":"DOCUMENTED"},
+  {"from":"place:ilenla_ikija","relation":"LOCATED_IN","to":"place:ikija","status":"SOURCE_CLAIM"}
+]
