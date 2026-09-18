@@ -1,0 +1,16 @@
+[
+  {"id":"place:ikija","label":"Ikija","type":"PLACE","status":"DOCUMENTED"},
+  {"id":"office:akija","label":"Akija","type":"OFFICE","status":"DOCUMENTED"},
+  {"id":"ruling_house:egbedi","label":"Egbedi","type":"RULING_HOUSE","status":"DOCUMENTED"},
+  {"id":"ruling_house:lumokan","label":"Lumokan","type":"RULING_HOUSE","status":"DOCUMENTED"},
+  {"id":"ruling_house:ojigi","label":"Ojigi","type":"RULING_HOUSE","status":"DOCUMENTED"},
+  {"id":"ruling_house:ajasun","label":"Ajasun","type":"RULING_HOUSE","status":"DOCUMENTED"},
+  {"id":"institution:ilamuren","label":"Ilamuren","type":"INSTITUTION","status":"DOCUMENTED"},
+  {"id":"institution:pampa","label":"Pampa","type":"INSTITUTION","status":"DOCUMENTED"},
+  {"id":"institution:osugbo","label":"Osugbo","type":"INSTITUTION","status":"DOCUMENTED"},
+  {"id":"institution:odi","label":"Odi","type":"INSTITUTION","status":"DOCUMENTED"},
+  {"id":"office:olisa_ikija","label":"Olisa of Ikija","type":"OFFICE","status":"DOCUMENTED"},
+  {"id":"place:agunsebi","label":"Agunsebi","type":"PLACE","status":"V_ORTH"},
+  {"id":"compound:ile_nla_agunsebi","label":"Ile-Nla Compound, Agunsebi","type":"COMPOUND","status":"DOCUMENTED"},
+  {"id":"place:ilenla_ikija","label":"Ilenla, Ikija","type":"QUARTER","status":"UNRESOLVED"}
+]
